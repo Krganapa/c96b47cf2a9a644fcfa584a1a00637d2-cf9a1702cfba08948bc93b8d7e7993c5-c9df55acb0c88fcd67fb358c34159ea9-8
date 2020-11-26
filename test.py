@@ -42,11 +42,11 @@ schedule_steps = 5 # full day_schedule steps should be 90
 # two types of parameter setups available for batchrunner
 # pre-setup for fixed/variable parameter dictionaries (consistant with mesa batchrunner)
 ######################
-grade_N = 350
-KG_N = 50
-preschool_N = 50
+grade_N = 20
+KG_N = 20
+preschool_N = 20
 special_education_N = 10
-faculty_N = 40
+faculty_N = 10
 seat_dist = 12
 mask_prob = 0.516
 days = 5
