@@ -22,7 +22,7 @@ if target == 'analyze-results':
     output_image.analyze_model_result(model_out_path=filepath)
     
 if target == 'test':
-    os.system('python school_model.py')
+    os.system('python test.py')
 
 
     

@@ -1,7 +1,7 @@
 import sys
 import os
 sys.path.append('./src')
-os.chdir(os.path.dirname(sys.path[0]))
+os.chdir(sys.path[0])
 
 
 
